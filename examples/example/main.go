@@ -4,8 +4,6 @@ import (
 	"github.com/lisitsky/inject"
 )
 
-var ()
-
 func init() {
 
 }
